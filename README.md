@@ -62,6 +62,7 @@ EDA involves exploring the sakes data to answer key questions,such as:
  -  profit=total sales -total cost
  -  total profit=sum[profit]
  -  profit margin= [(total sales-total cost)/total sales*100]
+ -  total quantity=sum[quantity]
 
 
 
