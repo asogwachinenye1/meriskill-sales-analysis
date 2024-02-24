@@ -1,11 +1,24 @@
 # meriskill_Internship-sales-analysis
 
+
+## TABLE OF CONTENTS
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Data Description](#data-description)
+- [Tools](#tools)
+- [Data cleaning/preparation](#data -cleaning/preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Visualization Of Data](#visualization-of-data)
+- [Findings/Insights](#findings-insights)
+- [Recommendation](#recommendation)
+- 
+  
 ### PROJECT OVERVIEW
 This data analysis aims to provide insights into the sales performance of an e-commerce company over the past yearBy analyzing various asppects of the sales data,we seek to identify trends,make dat deriven recommendation,and gain a deeper understanding of the commpan,s preformance.
 
 ### DATA SOURCE
 sales Data:The primary dataset used for this analysis is "SALES_DATA_CSV"FILE,containg detailed information about each sale made by the company."
-
+[DOWNLOAD HERE](https://drive.google.com/drive/folders/13nArPqBJSwpVRAVyvN2qqvF-XiFby-Pq?usp=sharing)
 ### DATA DESCRIPTION
 Column description for sales data analysis:
 - Order_id
@@ -112,4 +125,8 @@ slicer
 
 ### DASHBOARD
 
-
+### FINDINGS/INSIGHT
+The analysis result is summarized as follows
+- 
+### RECOMMENDATION
+Based on the analysis,i recommend the following actions:
