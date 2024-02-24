@@ -1,6 +1,6 @@
 # meriskill_Internship-sales-analysis
 
-### PROJECTOVERVIEW
+### PROJECT OVERVIEW
 This data analysis aims to provide insights into the sales performance of an e-commerce company over the past yearBy analyzing various asppects of the sales data,we seek to identify trends,make dat deriven recommendation,and gain a deeper understanding of the commpan,s preformance.
 
 ### DATA SOURCE
@@ -38,26 +38,24 @@ In the intial data preparationphase,i performed the following after i downloaded
   The column headers are identified in the first row and should be kept as headers by the following steps below.
   
 
-  ## steps 3
+ ## steps 3
   After promoting the headers,navigate to the transform tab and select 'Deetect Data Type'.This action will automatically identify the data type of ech column and convert them as needed.
 
 
-  ## step 4
-
-  split the datetime into date and time stamp
+## step 4
+ split the datetime into date and time stamp
   - the aforementioned process starts with selecting the desired column.following the selection,the option to split the column becomes visible
   - choose the split column option and select space as the delimeter
   - upon completing the data transformation ,click on close &apply located at the top left
   - remeber,this step is crucial after any data transformation process.
-
- ### Exploratory Data Analysis
+ ### EXPLORATORY DATA ANALYSIS
 
 EDA involves exploring the sakes data to answer key questions,such as:
 - what is the overall sales trend?
 - which product are top sellers?
 - what are the peak sales period?
 
-### Data Analysis
+### DATA ANALYSIS
  I calculated for all the revenue metrics as follows
  - total cost =sum [price each]
  - total sale =sum[sales]
