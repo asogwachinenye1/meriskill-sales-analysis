@@ -37,6 +37,7 @@ In the intial data preparationphase,i performed the following after i downloaded
 - Data cleaning and formatting
   The column headers are identified in the first row and should be kept as headers by the following steps below.
   
+  
 
  ## steps 3
   After promoting the headers,navigate to the transform tab and select 'Deetect Data Type'.This action will automatically identify the data type of ech column and convert them as needed.
