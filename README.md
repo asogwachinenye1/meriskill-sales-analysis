@@ -6,12 +6,12 @@
 - [Data Source](#data-source)
 - [Data Description](#data-description)
 - [Tools](#tools)
-- [Data cleaning preparation](#data-cleaning-preparation)
+- [Data cleaning/preparation](#data-cleaning-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Visualization Of Data](#visualization-of-data)
-- [Findings Insights](#findings-insights)
+- [Findings/Insights](#findings-insights)
 - [Recommendation](#recommendation)
-- 
+  
   
 ### PROJECT OVERVIEW
 This data analysis aims to provide insights into the sales performance of an e-commerce company over the past yearBy analyzing various asppects of the sales data,we seek to identify trends,make dat deriven recommendation,and gain a deeper understanding of the commpan,s preformance.
