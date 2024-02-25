@@ -131,11 +131,11 @@ slicer
 
 ### INSIGHTS
 The analysis result is summarized as follows
-- the company's saleshas a peak sales in december.
-- product mackbook pro laptop is the best selling product.
+- The company's saleshas a peak sales in december.
+- Product mackbook pro laptop is the best selling product.
 - AAA batteries94pack) is the best  product interms of quantity purchased.
 
 ### RECOMMENDATION
 Based on the analysis,i recommend the following actions:
-- invest in marketing and promotion during peak sales season to maximize revenue
-- focus on expandinng and promoting product mackbook pro laptop to maximize revenue
+- Invest in marketing and promotion during peak sales season to maximize revenue
+- Focus on expandinng and promoting product mackbook pro laptop to maximize revenue
