@@ -6,10 +6,10 @@
 - [Data Source](#data-source)
 - [Data Description](#data-description)
 - [Tools](#tools)
-- [Data cleaning/preparation](#data -cleaning/preparation)
+- [Data cleaning preparation](#data-cleaning-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Visualization Of Data](#visualization-of-data)
-- [Findings/Insights](#findings-insights)
+- [Findings Insights](#findings-insights)
 - [Recommendation](#recommendation)
 - 
   
@@ -124,6 +124,7 @@ slicer
 ![MERISALES14](https://github.com/asogwachinenye1/meriskill-sales-analysis/assets/161091047/cc2425e9-7669-4ef7-9be6-dcec3dff70c5)
 
 ### DASHBOARD
+![merisales dashboard](https://github.com/asogwachinenye1/meriskill-sales-analysis/assets/161091047/6b40a34a-1c3e-4c3f-9559-9e3b2e245df6)
 
 ### FINDINGS/INSIGHT
 The analysis result is summarized as follows
