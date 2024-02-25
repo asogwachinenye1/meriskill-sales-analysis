@@ -33,7 +33,7 @@ Column description for sales data analysis:
 - Hour
 - 
 ### TOOLS
-# POWER BI FOR
+# POWER BI 
 - DATA CLEANING
 - DATA ANALYSIS
 - CREATING VISSUALS AND REPORTS
