@@ -6,14 +6,17 @@
 - [Data Source](#data-source)
 - [Data Description](#data-description)
 - [Tools](#tools)
-- [Data cleaning/preparation](#data-cleaning-preparation)
+- [Data cleaning preparation](#data-cleaning-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
 - [Visualization Of Data](#visualization-of-data)
-- [Findings/Insights](#findings-insights)
+- [Insights](#insights)
 - [Recommendation](#recommendation)
   
   
 ### PROJECT OVERVIEW
+
+---
 This data analysis aims to provide insights into the sales performance of an e-commerce company over the past yearBy analyzing various asppects of the sales data,we seek to identify trends,make dat deriven recommendation,and gain a deeper understanding of the commpan,s preformance.
 
 ### DATA SOURCE
@@ -41,7 +44,7 @@ Column description for sales data analysis:
 [DOWNLOAD HERE](HTTP://MICROSOFT.COM)
 
 
-### DATA CLEANING/PREPARATION
+### DATA CLEANING PREPARATION
 ## step1
 In the intial data preparationphase,i performed the following after i downloaded the dataset using the "Get Data" option in Power BI
 - Data loading and inspection
@@ -126,8 +129,13 @@ slicer
 ### DASHBOARD
 ![merisales dashboard](https://github.com/asogwachinenye1/meriskill-sales-analysis/assets/161091047/6b40a34a-1c3e-4c3f-9559-9e3b2e245df6)
 
-### FINDINGS/INSIGHT
+### INSIGHTS
 The analysis result is summarized as follows
-- 
+- the company's saleshas a peak sales in december.
+- product mackbook pro laptop is the best selling product.
+- AAA batteries94pack) is the best  product interms of quantity purchased.
+
 ### RECOMMENDATION
 Based on the analysis,i recommend the following actions:
+- invest in marketing and promotion during peak sales season to maximize revenue
+- focus on expandinng and promoting product mackbook pro laptop to maximize revenue
